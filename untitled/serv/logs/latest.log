@@ -1,0 +1,615 @@
+[12:04:51] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[12:04:51] [Server thread/INFO]: Loading properties
+[12:04:51] [Server thread/INFO]: Default game type: SURVIVAL
+[12:04:51] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-79a30d7-f4830a1 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[12:04:51] [Server thread/INFO]: Debug logging is disabled
+[12:04:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:04:51] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:04:51] [Server thread/INFO]: Generating keypair
+[12:04:51] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[12:04:51] [Server thread/INFO]: Using epoll channel type
+[12:04:51] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[12:04:51] [Server thread/INFO]: [plugin] Loading plugin v1.0
+[12:04:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:04:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:04:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:04:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:04:51] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[12:04:51] [Server thread/INFO]: Preparing level "world"
+[12:04:51] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:04:51] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:04:51] [Server thread/INFO]: Random Lighting Updates: false
+[12:04:51] [Server thread/INFO]: Structure Info Saving: true
+[12:04:51] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:04:51] [Server thread/INFO]: Max TNT Explosions: 100
+[12:04:51] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:04:51] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:04:51] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:04:51] [Server thread/INFO]: Mob Spawn Range: 4
+[12:04:51] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:04:51] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:04:51] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:04:51] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:04:51] [Server thread/INFO]: View Distance: 10
+[12:04:51] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:04:51] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:04:51] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:04:51] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:04:51] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:04:51] [Server thread/INFO]: Random Lighting Updates: false
+[12:04:51] [Server thread/INFO]: Structure Info Saving: true
+[12:04:51] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:04:51] [Server thread/INFO]: Max TNT Explosions: 100
+[12:04:51] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:04:51] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:04:51] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:04:51] [Server thread/INFO]: Mob Spawn Range: 4
+[12:04:51] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:04:51] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:04:51] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:04:51] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:04:51] [Server thread/INFO]: View Distance: 10
+[12:04:51] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:04:51] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:04:51] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:04:51] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:04:51] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:04:51] [Server thread/INFO]: Random Lighting Updates: false
+[12:04:51] [Server thread/INFO]: Structure Info Saving: true
+[12:04:51] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:04:51] [Server thread/INFO]: Max TNT Explosions: 100
+[12:04:51] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:04:51] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:04:51] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:04:51] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:04:51] [Server thread/INFO]: Mob Spawn Range: 4
+[12:04:51] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:04:51] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:04:51] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:04:51] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:04:51] [Server thread/INFO]: View Distance: 10
+[12:04:51] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:04:51] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:04:51] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:04:51] [Server thread/INFO]: Preparing start region for level 0 (Seed: -8246797888433919194)
+[12:04:52] [Server thread/INFO]: Preparing start region for level 1 (Seed: -8246797888433919194)
+[12:04:53] [Server thread/INFO]: Preparing start region for level 2 (Seed: -8246797888433919194)
+[12:04:53] [Server thread/INFO]: [plugin] Enabling plugin v1.0
+[12:04:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:04:53] [Server thread/INFO]: Done (1.815s)! For help, type "help" or "?"
+[12:04:59] [User Authenticator #1/INFO]: UUID of player civodulap is ac5d3826-d94c-3ba1-b91c-05f8df81869e
+[12:04:59] [Server thread/INFO]: civodulap[/127.0.0.1:33132] logged in with entity id 198 at ([world]-159.08290986103432, 70.0, 257.6983618668746)
+[12:05:13] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:05:13] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:05:13] [Server thread/INFO]: Debug logging is disabled
+[12:05:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:05:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:05:13] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:05:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:05:13] [Server thread/INFO]: Random Lighting Updates: false
+[12:05:13] [Server thread/INFO]: Structure Info Saving: true
+[12:05:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:05:13] [Server thread/INFO]: Max TNT Explosions: 100
+[12:05:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:05:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:05:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:05:13] [Server thread/INFO]: Mob Spawn Range: 4
+[12:05:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:05:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:05:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:05:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:05:13] [Server thread/INFO]: View Distance: 10
+[12:05:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:05:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:05:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:05:13] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:05:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:05:13] [Server thread/INFO]: Random Lighting Updates: false
+[12:05:13] [Server thread/INFO]: Structure Info Saving: true
+[12:05:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:05:13] [Server thread/INFO]: Max TNT Explosions: 100
+[12:05:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:05:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:05:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:05:13] [Server thread/INFO]: Mob Spawn Range: 4
+[12:05:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:05:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:05:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:05:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:05:13] [Server thread/INFO]: View Distance: 10
+[12:05:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:05:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:05:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:05:13] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:05:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:05:13] [Server thread/INFO]: Random Lighting Updates: false
+[12:05:13] [Server thread/INFO]: Structure Info Saving: true
+[12:05:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:05:13] [Server thread/INFO]: Max TNT Explosions: 100
+[12:05:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:05:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:05:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:05:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:05:13] [Server thread/INFO]: Mob Spawn Range: 4
+[12:05:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:05:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:05:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:05:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:05:13] [Server thread/INFO]: View Distance: 10
+[12:05:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:05:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:05:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:05:13] [Server thread/INFO]: [plugin] Disabling plugin v1.0
+[12:05:13] [Server thread/INFO]: [plugin] Loading plugin v1.0
+[12:05:13] [Server thread/INFO]: [plugin] Enabling plugin v1.0
+[12:05:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:05:13] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[12:05:16] [Server thread/INFO]: civodulap lost connection: Disconnected
+[12:05:16] [Server thread/INFO]: civodulap left the game
+[12:05:17] [User Authenticator #2/INFO]: UUID of player civodulap is ac5d3826-d94c-3ba1-b91c-05f8df81869e
+[12:05:18] [Server thread/INFO]: civodulap[/127.0.0.1:35050] logged in with entity id 207 at ([world]-159.08290986103432, 70.0, 257.6983618668746)
+[12:06:55] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:06:55] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:06:55] [Server thread/INFO]: Debug logging is disabled
+[12:06:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:06:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:06:55] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:06:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:06:55] [Server thread/INFO]: Random Lighting Updates: false
+[12:06:55] [Server thread/INFO]: Structure Info Saving: true
+[12:06:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:06:55] [Server thread/INFO]: Max TNT Explosions: 100
+[12:06:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:06:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:06:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:06:55] [Server thread/INFO]: Mob Spawn Range: 4
+[12:06:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:06:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:06:55] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:06:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:06:55] [Server thread/INFO]: View Distance: 10
+[12:06:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:06:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:06:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:06:55] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:06:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:06:55] [Server thread/INFO]: Random Lighting Updates: false
+[12:06:55] [Server thread/INFO]: Structure Info Saving: true
+[12:06:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:06:55] [Server thread/INFO]: Max TNT Explosions: 100
+[12:06:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:06:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:06:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:06:55] [Server thread/INFO]: Mob Spawn Range: 4
+[12:06:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:06:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:06:55] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:06:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:06:55] [Server thread/INFO]: View Distance: 10
+[12:06:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:06:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:06:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:06:55] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:06:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:06:55] [Server thread/INFO]: Random Lighting Updates: false
+[12:06:55] [Server thread/INFO]: Structure Info Saving: true
+[12:06:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:06:55] [Server thread/INFO]: Max TNT Explosions: 100
+[12:06:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:06:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:06:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:06:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:06:55] [Server thread/INFO]: Mob Spawn Range: 4
+[12:06:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:06:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:06:55] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:06:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:06:55] [Server thread/INFO]: View Distance: 10
+[12:06:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:06:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:06:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:06:55] [Server thread/INFO]: [plugin] Disabling plugin v1.0
+[12:06:55] [Server thread/INFO]: [plugin] Loading plugin v1.0
+[12:06:55] [Server thread/INFO]: [plugin] Enabling plugin v1.0
+[12:06:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:06:55] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[12:07:02] [Server thread/INFO]: civodulap lost connection: Disconnected
+[12:07:02] [Server thread/INFO]: civodulap left the game
+[12:07:03] [User Authenticator #3/INFO]: UUID of player civodulap is ac5d3826-d94c-3ba1-b91c-05f8df81869e
+[12:07:03] [Server thread/INFO]: civodulap[/127.0.0.1:41054] logged in with entity id 316 at ([world]-150.46560572550084, 71.0, 258.30000001192093)
+[12:08:09] [Server thread/INFO]: civodulap was shot by Skeleton
+[12:09:03] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:09:03] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:09:03] [Server thread/INFO]: Debug logging is disabled
+[12:09:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:09:03] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:09:03] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:09:03] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:09:03] [Server thread/INFO]: Random Lighting Updates: false
+[12:09:03] [Server thread/INFO]: Structure Info Saving: true
+[12:09:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:09:03] [Server thread/INFO]: Max TNT Explosions: 100
+[12:09:03] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:09:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:09:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:09:03] [Server thread/INFO]: Mob Spawn Range: 4
+[12:09:03] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:09:03] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:09:03] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:09:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:09:03] [Server thread/INFO]: View Distance: 10
+[12:09:03] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:09:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:09:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:09:03] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:09:03] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:09:03] [Server thread/INFO]: Random Lighting Updates: false
+[12:09:03] [Server thread/INFO]: Structure Info Saving: true
+[12:09:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:09:03] [Server thread/INFO]: Max TNT Explosions: 100
+[12:09:03] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:09:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:09:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:09:03] [Server thread/INFO]: Mob Spawn Range: 4
+[12:09:03] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:09:03] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:09:03] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:09:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:09:03] [Server thread/INFO]: View Distance: 10
+[12:09:03] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:09:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:09:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:09:03] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:09:03] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:09:03] [Server thread/INFO]: Random Lighting Updates: false
+[12:09:03] [Server thread/INFO]: Structure Info Saving: true
+[12:09:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:09:03] [Server thread/INFO]: Max TNT Explosions: 100
+[12:09:03] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:09:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:09:03] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:09:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:09:03] [Server thread/INFO]: Mob Spawn Range: 4
+[12:09:03] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:09:03] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:09:03] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:09:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:09:03] [Server thread/INFO]: View Distance: 10
+[12:09:03] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:09:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:09:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:09:03] [Server thread/INFO]: [plugin] Disabling plugin v1.0
+[12:09:03] [Server thread/INFO]: [plugin] Loading plugin v1.0
+[12:09:03] [Server thread/INFO]: [plugin] Enabling plugin v1.0
+[12:09:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:09:03] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[12:09:07] [Server thread/INFO]: civodulap lost connection: Disconnected
+[12:09:07] [Server thread/INFO]: civodulap left the game
+[12:09:09] [User Authenticator #4/INFO]: UUID of player civodulap is ac5d3826-d94c-3ba1-b91c-05f8df81869e
+[12:09:09] [Server thread/INFO]: civodulap[/127.0.0.1:34086] logged in with entity id 1127 at ([world]-148.90932628086745, 71.0, 258.30000001192093)
+[12:09:33] [Server thread/INFO]: civodulap lost connection: Disconnected
+[12:09:33] [Server thread/INFO]: civodulap left the game
+[12:09:37] [User Authenticator #5/INFO]: UUID of player civodulap is ac5d3826-d94c-3ba1-b91c-05f8df81869e
+[12:09:37] [Server thread/INFO]: civodulap[/127.0.0.1:43396] logged in with entity id 1220 at ([world]-173.87984875282655, 64.0, 248.15634575441123)
+[12:09:48] [Server thread/INFO]: civodulap lost connection: Disconnected
+[12:09:48] [Server thread/INFO]: civodulap left the game
+[12:13:26] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:13:26] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:13:26] [Server thread/INFO]: Debug logging is disabled
+[12:13:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:13:26] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:13:26] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:13:26] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:13:26] [Server thread/INFO]: Random Lighting Updates: false
+[12:13:26] [Server thread/INFO]: Structure Info Saving: true
+[12:13:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:13:26] [Server thread/INFO]: Max TNT Explosions: 100
+[12:13:26] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:13:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:13:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:13:26] [Server thread/INFO]: Mob Spawn Range: 4
+[12:13:26] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:13:26] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:13:26] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:13:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:13:26] [Server thread/INFO]: View Distance: 10
+[12:13:26] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:13:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:13:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:13:26] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:13:26] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:13:26] [Server thread/INFO]: Random Lighting Updates: false
+[12:13:26] [Server thread/INFO]: Structure Info Saving: true
+[12:13:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:13:26] [Server thread/INFO]: Max TNT Explosions: 100
+[12:13:26] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:13:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:13:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:13:26] [Server thread/INFO]: Mob Spawn Range: 4
+[12:13:26] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:13:26] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:13:26] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:13:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:13:26] [Server thread/INFO]: View Distance: 10
+[12:13:26] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:13:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:13:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:13:26] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:13:26] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:13:26] [Server thread/INFO]: Random Lighting Updates: false
+[12:13:26] [Server thread/INFO]: Structure Info Saving: true
+[12:13:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:13:26] [Server thread/INFO]: Max TNT Explosions: 100
+[12:13:26] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:13:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:13:26] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:13:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:13:26] [Server thread/INFO]: Mob Spawn Range: 4
+[12:13:26] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:13:26] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:13:26] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:13:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:13:26] [Server thread/INFO]: View Distance: 10
+[12:13:26] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:13:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:13:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:13:26] [Server thread/INFO]: [plugin] Disabling plugin v1.0
+[12:13:26] [Server thread/INFO]: [plugin] Loading plugin v1.0
+[12:13:26] [Server thread/INFO]: [plugin] Enabling plugin v1.0
+[12:13:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:13:26] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[12:13:46] [User Authenticator #6/INFO]: UUID of player civodulap is ac5d3826-d94c-3ba1-b91c-05f8df81869e
+[12:13:46] [Server thread/INFO]: civodulap[/127.0.0.1:50964] logged in with entity id 1275 at ([world]-163.5989313057334, 64.0, 247.2011839101124)
+[12:13:48] [Server thread/INFO]: civodulap lost connection: Disconnected
+[12:13:48] [Server thread/INFO]: [-] civodulap 0/20
+[12:14:44] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:14:44] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:14:44] [Server thread/INFO]: Debug logging is disabled
+[12:14:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:14:44] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:14:44] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:14:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:14:44] [Server thread/INFO]: Random Lighting Updates: false
+[12:14:44] [Server thread/INFO]: Structure Info Saving: true
+[12:14:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:14:44] [Server thread/INFO]: Max TNT Explosions: 100
+[12:14:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:14:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:14:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:14:44] [Server thread/INFO]: Mob Spawn Range: 4
+[12:14:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:14:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:14:44] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:14:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:14:44] [Server thread/INFO]: View Distance: 10
+[12:14:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:14:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:14:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:14:44] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:14:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:14:44] [Server thread/INFO]: Random Lighting Updates: false
+[12:14:44] [Server thread/INFO]: Structure Info Saving: true
+[12:14:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:14:44] [Server thread/INFO]: Max TNT Explosions: 100
+[12:14:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:14:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:14:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:14:44] [Server thread/INFO]: Mob Spawn Range: 4
+[12:14:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:14:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:14:44] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:14:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:14:44] [Server thread/INFO]: View Distance: 10
+[12:14:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:14:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:14:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:14:44] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:14:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:14:44] [Server thread/INFO]: Random Lighting Updates: false
+[12:14:44] [Server thread/INFO]: Structure Info Saving: true
+[12:14:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:14:44] [Server thread/INFO]: Max TNT Explosions: 100
+[12:14:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:14:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:14:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:14:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:14:44] [Server thread/INFO]: Mob Spawn Range: 4
+[12:14:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:14:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:14:44] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:14:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:14:44] [Server thread/INFO]: View Distance: 10
+[12:14:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:14:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:14:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:14:44] [Server thread/INFO]: [plugin] Disabling plugin v1.0
+[12:14:44] [Server thread/INFO]: [plugin] Loading plugin v1.0
+[12:14:44] [Server thread/INFO]: [plugin] Enabling plugin v1.0
+[12:14:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:14:44] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[12:14:48] [User Authenticator #7/INFO]: UUID of player civodulap is ac5d3826-d94c-3ba1-b91c-05f8df81869e
+[12:14:48] [Server thread/INFO]: civodulap[/127.0.0.1:42726] logged in with entity id 1336 at ([world]-163.5989313057334, 64.0, 247.2011839101124)
+[12:14:50] [Server thread/INFO]: civodulap lost connection: Disconnected
+[12:14:50] [Server thread/INFO]: [-] civodulap
+[12:15:01] [Server thread/INFO]: Stopping the server
+[12:15:01] [Server thread/INFO]: Stopping server
+[12:15:01] [Server thread/INFO]: [plugin] Disabling plugin v1.0
+[12:15:01] [Server thread/INFO]: Saving players
+[12:15:01] [Server thread/INFO]: Saving worlds
+[12:15:01] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[12:15:01] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[12:15:01] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end

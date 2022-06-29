@@ -1,0 +1,4 @@
+name: plugin
+version: 1.0
+author: ludovicplt
+main: com.ludovicplt.plugin.plugin
